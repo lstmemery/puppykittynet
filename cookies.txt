@@ -1,0 +1,8 @@
+# HTTP Cookie File for domains related to kaggle.com.
+# To download this content click here, press return (Mac only) or copy and paste into a cookies.txt file.
+# It can be then used by wget and other standard complaint tools.
+# Example:  wget -x --load-cookies cookies.txt https://www.kaggle.com/
+#
+.kaggle.com	TRUE	/	TRUE	1538770183	.ASPXAUTH	EC36DFB6BCA0525F09AEB34FD8F2B37B028C0BF251C169161D21DB388BEEA747BF9C82B93D486DF2FC53C28544B1DF56AD3C9D5A760F0A4CE4E807A3406E2A78F232DC181BA88FFA9C57DCDBCF4F0D6167B2A7F9
+www.kaggle.com	FALSE	/	FALSE	0	__RequestVerificationToken	hucvhcBHsGRQGMoIA8QRKWw7SdntefP0LzwlvOaRxRhpkUknE88h2VHL9hONv3STcxLDqlJXKmQAU5wbeXKAa8pCqRA1
+www.kaggle.com	FALSE	/	TRUE	0	TempData	.lUK2IdUAen3SCFflRjlM+l+wh+R0NZHcQGut2RWlETOVMcnxWr+VivNNjDOdBvEn5L4yreNKAUQ/UbfJigusemMRVN4ynzsIEtvUUdbJbaE98j3z+ogZzoqbYoAf6TV41To97cw1oLmMprgIxIBX7doKloM7rd4eAUZqBodDiQyVszrQ16r/45PbTscRNOcgGLi2fK1g+hobTwltyAiFVsoQLno=
